@@ -1,5 +1,7 @@
+# UPDATE: Nelson fixed the issue, 
+
 # PlayerIPPatch
-An unofficial patch for Player IP issues since the latest update for Unturned
+An unofficial patch for Player IP issues since the latest update for Unturned. Using this patch could could interfere with the official patch.
 
 Fixes player IP's showing up as 0.0.0.0
 
